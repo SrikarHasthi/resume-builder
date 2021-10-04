@@ -1,0 +1,18 @@
+.template-container {
+  display: flex;
+  margin-top: 0px;
+  height: 92vh;
+}
+.data-container {
+  width: 50%;
+}
+.btn-generate{
+  position: fixed;
+    bottom: 10rem;
+    left: 35rem;
+}
+.btn-database{
+  position: fixed;
+    bottom: 5rem;
+    left:35rem;
+}
