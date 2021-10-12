@@ -1,10 +1,12 @@
+# Checkout the Deployed App at:
+
+https://srikarhasthi.github.io/resume-builder/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Check out the deployed App at:
-
-https://srikarhasthi.github.io/resume-builder/
 
 ## Available Scripts
 
